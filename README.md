@@ -54,6 +54,4 @@ The dashboard is designed to help HR managers make data-driven decisions.
 ---
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](images/dashboard_screenshot.png)
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/HR-Analytics-Dashboard.git
+![HR Analytics Dashboard](https://github.com/ThkrYogesh/HR-Analytics-Dashboard/blob/main/dashboard_screenshot.png)
